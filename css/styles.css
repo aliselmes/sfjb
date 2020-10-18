@@ -1,0 +1,12 @@
+.navbar,
+body {
+    background-color: black;
+}
+
+.navbar {
+    font-size: 18px;
+}
+
+#nav-donate-btn {
+    background-color: #AD5B8C;
+}
