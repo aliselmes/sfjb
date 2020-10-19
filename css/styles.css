@@ -5,8 +5,17 @@ body {
 
 .navbar {
     font-size: 18px;
+    border-bottom: 1px solid ;
 }
 
 #nav-donate-btn {
     background-color: #AD5B8C;
+}
+
+.site-footer {
+    background-color: #AD5B8C;
+}
+
+footer i {
+    color: white;
 }
