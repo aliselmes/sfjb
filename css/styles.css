@@ -12,7 +12,24 @@ body {
     background-color: #AD5B8C;
 }
 
+
 .site-footer {
     background-color: #AD5B8C;
 }
 
+.carousel-item img {
+    filter: brightness(50%);
+}
+
+.carousel-caption h1 {
+    font-size: 3rem;
+}
+
+.carousel-caption p {
+    font-size: 1.5rem;
+}
+
+.carousel-caption a {
+    background-color: #A8730F;
+    font-size: 1.2rem;
+}
