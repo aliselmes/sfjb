@@ -33,3 +33,12 @@ body {
     background-color: #A8730F;
     font-size: 1.2rem;
 }
+
+#missionStatement {
+    background-color: #A8730F;
+    color: white;
+}
+
+hr {
+    border-top: 1px solid white;
+}
