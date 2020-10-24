@@ -34,6 +34,19 @@ body {
     font-size: 1.2rem;
 }
 
+@media only screen and (max-width: 450px) {
+
+    .carousel-caption h1 {
+        font-size: 1.75rem;
+    }
+    
+    .carousel-caption a {
+        background-color: #A8730F;
+        font-size: 0.75rem;
+    }
+    
+    }
+
 #missionStatement {
     background-color: #A8730F;
     color: white;
@@ -54,3 +67,4 @@ hr {
 #buy-ticket-btn {
     background-color: #A8730F;
 }
+
