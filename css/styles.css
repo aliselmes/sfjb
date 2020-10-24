@@ -29,7 +29,8 @@ body {
     font-size: 1.5rem;
 }
 
-.carousel-caption a {
+.carousel-caption a,
+.card-body .btn {
     background-color: #A8730F;
     font-size: 1.2rem;
 }
@@ -45,7 +46,7 @@ body {
         font-size: 0.75rem;
     }
     
-    }
+}
 
 #missionStatement {
     background-color: #A8730F;
@@ -60,7 +61,8 @@ hr {
     background-color: #AD5B8C;
 }
 
-#event-artist-name{
+.event-artist-name,
+.education-title {
     color: #AD5B8C; 
 }
 
