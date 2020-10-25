@@ -62,7 +62,8 @@ hr {
 }
 
 .event-artist-name,
-.education-title {
+.education-title,
+.modal-title {
     color: #AD5B8C; 
 }
 
@@ -78,5 +79,10 @@ hr {
 
 #r-winebar-text i {
     font-size: 2.5rem;
+}
+
+.modal-content {
+    background-color: black;
+    color: white;
 }
 
