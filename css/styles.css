@@ -67,7 +67,8 @@ hr {
     color: #AD5B8C; 
 }
 
-.buy-ticket-btn {
+.buy-ticket-btn,
+.submit-btn {
     background-color: #A8730F;
 }
 
