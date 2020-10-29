@@ -17,7 +17,8 @@ body {
     background-color: #AD5B8C;
 }
 
-.carousel-item img {
+.carousel-item img,
+#about-cover-img {
     filter: brightness(50%);
 }
 
@@ -63,7 +64,8 @@ hr {
 
 .event-artist-name,
 .education-title,
-.modal-title {
+.modal-title,
+.about-page-header{
     color: #AD5B8C; 
 }
 
@@ -85,5 +87,12 @@ hr {
 .modal-content {
     background-color: black;
     color: white;
+}
+
+#headingOne,
+#headingTwo,
+#headingThree,
+#headingFour {
+    background-color: #A8730F;
 }
 
